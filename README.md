@@ -1,10 +1,14 @@
 # CatUserbot / PepeCat
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/VIKASIND/lazycat)
+## Deploy to Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VIKASIND/lazycat)
+
+## Deploy to Railway
+<p><a href=https://github.com/VIKASIND/lazycat
 
 A simple Telegram userbot based on Telethon .
-[![catuserbot logo](https://telegra.ph/file/2ddae2f90f1265a2306fb.jpg)](https://t.me/catuserbot_support) 
+[![catuserbot logo](https://telegra.ph/file/2ddae2f90f1265a2306fb.jpg)](https://github.com/VIKASIND/lazycat) 
 
 ## First Fork then Deploy
 
