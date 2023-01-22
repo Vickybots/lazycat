@@ -25,7 +25,7 @@
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
-      "value": "AQBPN1utWRrZvtggwPspEXoTdzvbabUPWmPt4bCnVx2kDTSIR0BCPa6y6MHEOhu85YzxzpjlRlb1fPCv_fSK0kWW1vszRcvNiWwV_-EnVcILaGUhn7u4zBv9TfAkckKmsPg2SaSWD6Cu6nnAeEopi1it8ZSj6xeRy3vJExhsnUMioG_aFlkCMBbi5GNwu-OIijyGVzfFNJaYU_zG2-veLORXU7dgMinPFCgSLtFohHVGmPxAENWBYvhoU-cSe-YQQ8ME2f9Kzx5BUN-FBKlrVUppuwu7adjoSjd1dfYJcK1YPmrUqXtir-ZpLGuZzNA_sUFU5ODX5RozgJQEwdl7VNJ6AAAAAVd8w4AA"
+      "value": "1AZWarzoBu2uPiE1dARHGgU4e_vcUNkWTjhJGtYrO2kZZNRZGpmff9Jsnzy-BFsxqOCnS_k63s8gHbuYBfDg4bpRiSTdY0Fo9W9EktCWaclfqNUHs86EIaBKSeVIQA2i1FXouOyXPjrweE73-dYWhE8TOYQd6mUoIBVb6XONOOAdZtd6cW32yZnOciKDH7JxXDygGcuj35S6idhmCbJmw3r2KCqe9DPP4bK_wViAKcqAYnQWIP5al4b81_bLnIEHi4tlFadDVBc4nYgntEvWFBiLLNNxHz6Mxz9T9yoRAL0Y51t--zm4HPaanYRYh1JmzXwM2vUZxN0RCoDsk312oe-2ZB6v22Eg="
     },
     "TG_BOT_TOKEN": {
       "description": "Needed for inline buttons maker. Make a bot at http://telegram.dog/BotFather and get the token of your bot.Worth it. Get it.",
@@ -47,8 +47,8 @@
       "required": false
     },
     "HEROKU_APP_NAME": {
-      "description": "YOUR app name ",
-      "value": "",
+      "description": "Vicky bot",
+      "value": "vickybot",
       "required": false
     },
     "TZ": {
