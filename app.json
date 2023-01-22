@@ -17,11 +17,11 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "6668446"
+      "value": "4738242"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Please do not steal",
-      "value": "da21fd327ac923385be614ebb57a49e8"
+      "value": "2fc2577f2b0bb066149b2bc10b37edd2"
     },
     "STRING_SESSION": {
       "description": "Get this value by running python3 telesetup.py locally or https://generatestringsession.sandeep1709.repl.run",
